@@ -1,8 +1,0 @@
-
-
-#excersise 2.3
-n = input("Please enter the time right now: ")
-
-#alarm time
-wait_time = int(input("alarm: "))
-
