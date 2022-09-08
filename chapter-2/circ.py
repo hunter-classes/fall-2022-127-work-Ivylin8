@@ -1,4 +1,3 @@
-
 a = "all"
 b = "work"
 c = "and"
