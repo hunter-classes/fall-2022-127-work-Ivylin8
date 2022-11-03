@@ -3,7 +3,6 @@
 #2: Used proper lettercases for beginning of sentences
 
 from random import randint
-
 #sets up dict
 word_dict = {
     '<HERO>' :['Sam', 'Nate', 'Jen', 'Carl'],
@@ -15,12 +14,11 @@ word_dict = {
 #sets up list of special words
 special_words = ['<HERO>', '<LOCATION>', '<NOUN>', '<VERB>']
 
-
 result = ''
 
 def is_punctuated(word):
     last_char = word[-1] #get the last character of a word
-    if (last_char == '.' or last_char == '!' or last_char == '?'): #last character is a punctuation mark or else
+    if (last_char == '.'): #last character is a punctuation mark or else
         return True
     else:
         return False
