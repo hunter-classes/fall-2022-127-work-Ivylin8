@@ -1,4 +1,9 @@
+#extras:
+#1: opended a story file and read the lines from it
+#2: Used proper lettercases for beginning of sentences
+
 #sets up dictionary 
+from random import randint
 word_dict = {
     '<HERO>' :['Sam', 'Nate', 'Jen', 'Carl'],
     '<LOCATION>' :['beach', 'playground', 'store', 'mall', 'school', 'basement'],
