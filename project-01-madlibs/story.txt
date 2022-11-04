@@ -1,4 +1,4 @@
-Yesterday <HERO> and I were at the <LOCATION> when we saw a <NOUN> that was <ADJECTIVE> outside.
+Yesterday <HERO> and I were at the <LOCATION> when we saw a <NOUN> that was <VERB> outside.
 We <VERB> with a <NOUN> until we were trembling.
 It <VERB> while bumping into <NOUN> and <HERO> <VERB> after.
-It went to <LOCATION> while the <NOUN> <VERB> so <HERO> saved the day.
+It went to the <LOCATION> while the <NOUN> <VERB> so <HERO> saved the day.
