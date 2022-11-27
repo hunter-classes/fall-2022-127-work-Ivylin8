@@ -1,0 +1,18 @@
+pirateDic = {
+    "hello":"avast",
+    "excuse":"arrr",
+    "sir":"matey",
+    "boy":"matey",
+    "man":"matey",
+    "hi":"ahoy",
+    "officer":"foul blaggart",
+    "the":"th'",
+    "my":"me",
+    "your":"yer",
+    "is":"be",
+    "are":"be",
+    "before":"afore",
+    "the":"th'",
+    "earlier":"afore",
+    "people":"landlubbers",
+    "there":"thar"}
