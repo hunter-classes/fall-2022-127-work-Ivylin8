@@ -1,3 +1,8 @@
+#1 extra: Use Matplotlib or another Python graphing/plotting library to visualize part or all of your analysis.
+
+#NOTE: Used Jupiter Notebook from Anaconda 
+
+
 #import data using csv
 import csv
 import numpy
