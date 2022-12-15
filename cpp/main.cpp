@@ -24,7 +24,7 @@ int main() {
 }
 
 
-//Extra 2: 
+//Extra 2 Show a working if and loop: 
 int max(int x, int y)
 {
   if (y > x)
