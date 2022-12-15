@@ -1,9 +1,12 @@
+//EXTRA 1: Show if statement and loop
+//EXTRA 2 : Show a working function
+
 #include <iostream>
 #include <string>
 
 using namespace std;
 
-//Working Functon
+//Extra 1: Implement working function to return postive number
 int main() {
   
   int number;
@@ -19,5 +22,15 @@ int main() {
 
   return 0;
 }
-/////////////////////////
+
+
+//Extra 2: 
+int max(int x, int y)
+{
+  if (y > x)
+    return y;
+  else
+    return x;
+}
+
 
